@@ -2,8 +2,8 @@
 los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
 Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-*Variables 
-*Strings: Son palabras
-*Funciones (argumentos, return)
-*Declaraciones if: Son variaciones de lo que pueda suceder
-*Valores booleanos (true, false): Es como decir si algo es se cumple o no.
+*Variables: Guarda algo de valor.
+*Strings: Son palabras.
+*Funciones (argumentos, return): Son procedimientos que hacen algo.
+*Declaraciones if: Son variaciones de lo que pueda suceder.
+*Valores booleanos (true, false): Es como decir si algo se cumple o no.
