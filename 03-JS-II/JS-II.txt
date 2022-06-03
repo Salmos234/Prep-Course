@@ -1,0 +1,16 @@
+Instrucciones
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se 
+lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Desde la carpeta Prep en la carpeta donde clonaste el repo, ingresa el comando npm test JSII.test.js p
+ara correr los tests automatizados. Al principio, todos los tests estarán fallados/rotos. Encontrarás las funciones 
+para hacer pasar los tests en el archivo homework.js.
+
+*For: es algo que se repite o cumple un ciclo segun una condicion
+*&&: es una funcion que en la que se deben cumplir ambas condiciones,si una condicion falla, falla todo.
+*||: solo con cumplir una condicion (experesion) basta para ser true,es decir que se cumpla. Si fallan las dos condiciones falla todo.
+*!: Devuelve lo opuesto de lo que pasa
+
+
+
